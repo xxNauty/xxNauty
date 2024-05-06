@@ -24,7 +24,7 @@ I am Junior Java Developer, currently CS student at Lubelska Akademia WSEI.
 - Git
 - RabbitMQ and other message brokers
 
-[![Currently exploring](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,mariadb,docker,git,rabbitmq)](https://skillicons.dev)
+[![Currently exploring](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,mongodb,docker,git,rabbitmq)](https://skillicons.dev)
   
 And every interesting technology that I find while surfing through internet 
 
