@@ -8,7 +8,7 @@ I am Junior Java Developer, currently CS student at Lubelska Akademia WSEI.
 
 - 📚 I'm currently on 1st year of my road to Bachelor of Engineering degree in Computer Science at Lubelska Akademia WSEI.
 - 🚀 In future I want to be a Full Stack Web Developer, but now I want to focus on backend only.
-- 🐘 In the past I had worked in PHP and it's framework Symfony, but after a year of working decided to change career path to Java and Spring
+- 🐘 In the past I had worked in PHP and it's framework Symfony, but after a year of working decided to change the career path to Java and Spring.
 
 
 ## Main Tech Stack
@@ -26,7 +26,7 @@ I am Junior Java Developer, currently CS student at Lubelska Akademia WSEI.
 
 [![Currently exploring](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,mongodb,docker,git,rabbitmq)](https://skillicons.dev)
   
-And every interesting technology that I find while surfing through internet 
+And every interesting technology that I find while surfing through internet.
 
 ## Also interested in
 [![My Interests](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,bash)](https://skillicons.dev)
