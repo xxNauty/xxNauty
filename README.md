@@ -19,7 +19,7 @@ I am Junior Java Developer, currently CS student at Lubelska Akademia WSEI.
 - ♨️ Java 
 - 🍃 Spring and all it's "children"
 - 🛢 MySQL, PostgreSQL and some other SQL-based database
-- 🐳 Docker
+- 🐳 Docker  
 And every interesting technology that I find while surfing through internet 
 
 ## Also interested in
