@@ -2,7 +2,7 @@
 
 I am Junior Java Developer, currently CS student at Lubelska Akademia WSEI. 
 
-![<xxNauty>'s Stats](https://github-readme-stats.vercel.app/api?username=xxNauty&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxNauty)](https://github.com/anuraghazra/github-readme-stats)
+![<xxNauty>'s Stats](https://github-readme-stats.vercel.app/api?username=xxNauty&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## About me
 
