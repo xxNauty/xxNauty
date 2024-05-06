@@ -33,3 +33,5 @@ And every interesting technology that I find while surfing through internet.
 
 ## Contact me
 [![Contact me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wnukmateusz)
+[![Contact me](https://skillicons.dev/icons?i=gmail)](mailto:mateusz2003w@gmail.com)
+
