@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Mateusz 👋
 
-<!--
-**xxNauty/xxNauty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Junior Java Developer, currently CS student at Lubelska Akademia WSEI. 
 
-Here are some ideas to get you started:
+![<xxNauty>'s Stats](https://github-readme-stats.vercel.app/api?username=xxNauty&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+
+## Old tech stack
+[![My Skills](https://skillicons.dev/icons?i=php,symfony)](https://skillicons.dev)
+
+## Also interested in
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+
+## Contact me
+- [LinkedIn](https://www.linkedin.com/in/wnukmateusz)
