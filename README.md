@@ -26,4 +26,4 @@ And every interesting technology that I find while surfing through internet
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,bash)](https://skillicons.dev)
 
 ## Contact me
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,docker,rabbitmq)](https://www.linkedin.com/in/wnukmateusz)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wnukmateusz)
