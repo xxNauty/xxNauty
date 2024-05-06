@@ -12,7 +12,7 @@ I am Junior Java Developer, currently CS student at Lubelska Akademia WSEI.
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,docker,rabbitmq)](https://skillicons.dev)
 
 ## Currently exploring
 
@@ -23,7 +23,7 @@ I am Junior Java Developer, currently CS student at Lubelska Akademia WSEI.
 And every interesting technology that I find while surfing through internet 
 
 ## Also interested in
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,bash)](https://skillicons.dev)
 
 ## Contact me
-- [LinkedIn](https://www.linkedin.com/in/wnukmateusz)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,docker,rabbitmq)](https://www.linkedin.com/in/wnukmateusz)
