@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm passionate about technology and currently purs
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-contributions-api.deno.dev/xxNauty.svg" alt="GitHub Contributions Chart" />
-</p>
+[//]: # (<p align="center">)
+[//]: # (  <img src="https://github-contributions-api.deno.dev/xxNauty.svg" alt="GitHub Contributions Chart" />)
+[//]: # (</p>)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xxNauty&show_icons=true&theme=github_dark" alt="xxNauty's GitHub stats" />
 </p>
