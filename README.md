@@ -20,6 +20,9 @@ Welcome to my GitHub profile! I'm passionate about technology and currently purs
 
 ## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-contributions-api.deno.dev/xxNauty.svg" alt="GitHub Contributions Chart" />
+</p>
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xxNauty&show_icons=true&theme=github_dark" alt="xxNauty's GitHub stats" />
@@ -28,9 +31,7 @@ Welcome to my GitHub profile! I'm passionate about technology and currently purs
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxNauty&theme=github-dark" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-contributions-api.deno.dev/xxNauty.svg" alt="GitHub Contributions Chart" />
-</p>
+
 
 ## 📚 Currently Learning
 
