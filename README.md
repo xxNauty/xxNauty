@@ -3,6 +3,10 @@
 
 Welcome to my GitHub profile! I'm passionate about technology and currently pursuing my studies in Information Technology. I am on a journey to master **Python**, exploring everything from basic scripts to real-world projects.
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xxNauty&theme=onedark&column=5&title=Experience,Commits,Followers,PullRequest,Repositories&theme=nord" alt="GitHub Streak" />
+</p>
+
 ## 🚀 About Me
 
 - 🔭 I’m currently learning **Python**
@@ -18,6 +22,7 @@ Welcome to my GitHub profile! I'm passionate about technology and currently purs
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxNauty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 GitHub Stats
 
@@ -25,18 +30,15 @@ Welcome to my GitHub profile! I'm passionate about technology and currently purs
 [//]: # (  <img src="https://github-contributions-api.deno.dev/xxNauty.svg" alt="GitHub Contributions Chart" />)
 [//]: # (</p>)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxNauty&show_icons=true&theme=github_dark" alt="xxNauty's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xxNauty&show_icons=true&theme=github_dark&locale=pl&hide=issues" alt="xxNauty's GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxNauty&theme=github-dark" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xxNauty&theme=onedark&column=5&title=Experience,Commits,Followers,PullRequest,Repositories&theme=nord" alt="GitHub Streak" />
-</p>
 
-[![Spotify](https://novatorem-xxNauty.vercel.app/api/spotify)](https://open.spotify.com/user/xnauty213)
+## 🕒 WakaTime
 
-![Time](https://img.shields.io/timezone/Etc/UTC?label=Current%20UTC%20Time)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xNauty&api_domain=wakapi.dev&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compacty)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Currently Learning
 
