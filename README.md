@@ -1,4 +1,5 @@
 # Hi there 👋, I'm an IT Student!
+![Visitor Count](https://komarev.com/ghpvc/?username=xxNauty&style=plastic&label=Visitors)
 
 Welcome to my GitHub profile! I'm passionate about technology and currently pursuing my studies in Information Technology. I am on a journey to master **Python**, exploring everything from basic scripts to real-world projects.
 
@@ -29,7 +30,13 @@ Welcome to my GitHub profile! I'm passionate about technology and currently purs
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxNauty&theme=github-dark" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xxNauty&theme=onedark&column=5&title=Experience,Commits,Followers,PullRequest,Repositories&theme=nord" alt="GitHub Streak" />
+</p>
 
+[![Spotify](https://novatorem-xxNauty.vercel.app/api/spotify)](https://open.spotify.com/user/xnauty213)
+
+![Time](https://img.shields.io/timezone/Etc/UTC?label=Current%20UTC%20Time)
 
 ## 📚 Currently Learning
 
