@@ -45,14 +45,12 @@ Welcome to my GitHub profile! I'm passionate about technology and currently purs
 ## 📚 Currently Learning
 
 - Python fundamentals
-- Object-Oriented Programming
-- Web development basics (HTML, CSS, JavaScript)
 - Version control with Git and GitHub
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](#)
-- 🐦 [Twitter](#)
+- 💼 [LinkedIn (in future)]()
+- 🐦 [Twitter (in future)]()
 - 📧 [Email](mailto:mateusz2003w@gmail.com)
 
 ---
